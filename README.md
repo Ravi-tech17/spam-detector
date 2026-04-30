@@ -50,7 +50,7 @@ Model Prediction
 Spam / Not Spam Output
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/Ravi-tech17/email-sms-spam-classifier.git
+git clone http://localhost:8501/
 cd email-sms-spam-classifier
 2️⃣ Install Dependencies
 pip install -r requirements.txt
